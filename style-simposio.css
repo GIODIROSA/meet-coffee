@@ -1,0 +1,96 @@
+body {
+  text-align: center;
+  color: #000f08;
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+}
+body * {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+.oscuro {
+  background: #000f08;
+  color: #ffffff;
+}
+section {
+  padding: 3.125rem 3.125rem;
+}
+h1 {
+  font-size: 2em;
+  font-weight: 700;
+  margin-top: 3em;
+  margin-bottom: 2em;
+  letter-spacing: normal;
+}
+h2 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: left;
+  font-size: 30px;
+  font-weight: 700;
+}
+section {
+  vertical-align: middle;
+  margin: 0 20% 8em 15%;
+}
+header {
+  margin: 2em;
+}
+header img {
+  width: 100%;
+  border-radius: 5px;
+}
+header h1 {
+  text-align: left;
+}
+.simposio {
+  margin: 2em;
+}
+.simposio h1 {
+  text-align: left;
+}
+.simposio p {
+  text-align: left;
+  font-size: 1.2em;
+}
+p {
+  font-weight: 400;
+  line-height: 1.5em;
+  font-size: 1.343em;
+}
+nav {
+  text-align: left;
+  position: fixed;
+  width: 100vw;
+  padding: 1.25rem 4rem;
+}
+nav ul {
+  list-style-type: none;
+}
+nav ul li {
+  display: inline-block;
+  margin: 0px 1.7em;
+  vertical-align: middle;
+ 
+}
+.icono {
+  width: 2em;
+  fill: #ffffff;
+}
+footer {
+  padding: 3.125rem;
+}
+footer i {
+  margin: 0 0.25em 0.5em 0.25em;
+}
+footer,
+.oscuro,
+p {
+  font-size: 1em;
+}
+footer,
+.oscuro,
+a {
+  color: #ffffff;
+}
